@@ -1,0 +1,15 @@
+CHANGELOG
+==============
+Version 1: 3/11/22
+  > Built basic UI with Bootstrap helper classes, integrated Vue.js
+    into project and began extracting pieces into logical components.
+    Added functionality to display various sections pulling from data
+    structure. Added search functionality.
+Version 2: 3/17/22
+  > Records are now loaded from json file.
+  > Added Vuex to app and re-implemented navigation using vuex store.
+  > Refactored SideMenu.vue and OffCanvasMenu.vue to use arrays and vuex
+  > Added Vue-Router and refactored appropriate files to allow for routing
+  > Implemented query params for routing so that search results can be routed to.
+  > Added player that appears when a song is selected.
+  > Recent songs now displays when each song was last played.

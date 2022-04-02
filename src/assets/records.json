@@ -1,0 +1,414 @@
+{
+  "records": [
+    {
+      "name": "Andrew Bird",
+      "image": "andrew-bird.jpg",
+      "url": "@/assets/artist-covers/artist-andrew-bird.jpg",
+      "genre": "Indie",
+      "albums": [
+        {
+          "name": "Weather Systems",
+          "date": "2003",
+          "songs": [
+            {
+              "title": "First Song",
+              "length": "4:20"
+            },
+            {
+              "title": "Lull",
+              "length": "5:10"
+            },
+            {
+              "title": "-->",
+              "length": "1:37"
+            },
+            {
+              "title": "Skin",
+              "length": "2:54"
+            }
+          ]
+        },
+        {
+          "name": "Noble Beast",
+          "date": "2009",
+          "songs": [
+            {
+              "title": "Oh No",
+              "length": "4:20"
+            },
+            {
+              "title": "Fritz and the Dizzyspells",
+              "length": "3:36"
+            },
+            {
+              "title": "Tenousness",
+              "length": "3:51"
+            },
+            {
+              "title": "Masterswarm",
+              "length": "6:35"
+            }
+          ]
+        },
+        {
+          "name": "Hands of Glory",
+          "date": "2012",
+          "songs": [
+            {
+              "title": "Three White Horses",
+              "length": "3:10"
+            },
+            {
+              "title": "When That Helicopter Comes",
+              "length": "2:50"
+            },
+            {
+              "title": "Spirograph",
+              "length": "4:04"
+            },
+            {
+              "title": "Railroad Bill",
+              "length": "3:24"
+            }
+          ]
+        },
+        {
+          "name": "Things Are Really Great",
+          "date": "2014",
+          "songs": [
+            {
+              "title": "Cathedral in the Dell",
+              "length": "3:59"
+            },
+            {
+              "title": "Tin Foiled",
+              "length": "3:26"
+            },
+            {
+              "title": "Giant of Illinois",
+              "length": "3:31"
+            },
+            {
+              "title": "So Much Wine",
+              "length": "3:31"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cosmos Sheldrake",
+      "image": "cosmos-sheldrake.jpg",
+      "genre": "Indie",
+      "url": "@/assets/artist-covers/artist-cosmos-sheldrake.jpg",
+      "albums": [
+        {
+          "name": "The Much Much How",
+          "date": "2018",
+          "songs": [
+            {
+              "title": "Linger Linger",
+              "length": "5:36"
+            },
+            {
+              "title": "Wriggle",
+              "length": "4:29"
+            },
+            {
+              "title": "Birth a Basket",
+              "length": "2:40"
+            },
+            {
+              "title": "Birthday Suit",
+              "length": "1:21"
+            }
+          ]
+        },
+        {
+          "name": "Wake Up Calls",
+          "date": "2020",
+          "songs": [
+            {
+              "title": "Nightjar",
+              "length": "2:29"
+            },
+            {
+              "title": "Nightingale",
+              "length": "2:37"
+            },
+            {
+              "title": "Dawn Chorus",
+              "length": "3:06"
+            },
+            {
+              "title": "Skylark",
+              "length": "2:15"
+            }
+          ]
+        },
+        {
+          "name": "Pelicans We",
+          "date": "2015",
+          "songs": [
+            {
+              "title": "Tardigrade Song",
+              "length": "4:02"
+            },
+            {
+              "title": "The Fly",
+              "length": "3:34"
+            },
+            {
+              "title": "Pelicans We",
+              "length": "3:27"
+            },
+            {
+              "title": "Rich",
+              "length": "4:29"
+            }
+          ]
+        },
+        {
+          "name": "Old Tunes",
+          "date": "2015",
+          "songs": [
+            {
+              "title": "The Woods",
+              "length": "0:43"
+            },
+            {
+              "title": "The Moss",
+              "length": "3:16"
+            },
+            {
+              "title": "Prefusify",
+              "length": "3:16"
+            },
+            {
+              "title": "Solar",
+              "length": "4:03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gogol Bordello",
+      "image": "gogol-bordello.jpg",
+      "genre": "Alt Rock",
+      "url": "@/assets/artist-covers/artist-gogol-bordello.jpg",
+      "albums": [
+        {
+          "name": "Gypsy Punks",
+          "date": "2005",
+          "songs": [
+            {
+              "title": "Sally",
+              "length": "3:03"
+            },
+            {
+              "title": "I Would Never Wanna Be",
+              "length": "3:46"
+            },
+            {
+              "title": "Not A Crime",
+              "length": "4:31"
+            },
+            {
+              "title": "Immigrant Punk",
+              "length": "0:00"
+            }
+          ]
+        },
+        {
+          "name": "Super Tartanta!",
+          "date": "2007",
+          "songs": [
+            {
+              "title": "Ultimate",
+              "length": "3:29"
+            },
+            {
+              "title": "Wonderlust King",
+              "length": "3:58"
+            },
+            {
+              "title": "Zina-Marina",
+              "length": "4:19"
+            },
+            {
+              "title": "Supertheory of Supereverything",
+              "length": "2:56"
+            }
+          ]
+        },
+        {
+          "name": "Trans-Continental",
+          "date": "2010",
+          "songs": [
+            {
+              "title": "Pala Tute",
+              "length": "4:05"
+            },
+            {
+              "title": "My Companjera",
+              "length": "3:22"
+            },
+            {
+              "title": "Sun On My Side",
+              "length": "4:25"
+            },
+            {
+              "title": "Rebellious Love",
+              "length": "3:57"
+            }
+          ]
+        },
+        {
+          "name": "J.U.F.",
+          "date": "2004",
+          "songs": [
+            {
+              "title": "Gypsy Part of Town",
+              "length": "4:55"
+            },
+            {
+              "title": "When I Was A Little Spy",
+              "length": "4:53"
+            },
+            {
+              "title": "Super Rifle",
+              "length": "5:02"
+            },
+            {
+              "title": "J.U.F. Dub",
+              "length": "4:33"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Squirrel Nut Zippers",
+      "image": "squirrel-nut-zippers.jpg",
+      "genre": "Swing Revival",
+      "url": "@/assets/artist-covers/artist-squirrel-nut-zippers.jpg",
+      "albums": [
+        {
+          "name": "Bedlam Ballroom",
+          "date": "2000",
+          "songs": [
+            {
+              "title": "Bedbugs",
+              "length": "3:12"
+            },
+            {
+              "title": "Baby Wants a Diamond Ring",
+              "length": "3:25"
+            },
+            {
+              "title": "Do What?",
+              "length": "2:42"
+            },
+            {
+              "title": "Bent Out of Shape",
+              "length": "2:47"
+            }
+          ]
+        },
+        {
+          "name": "Hot",
+          "date": "1996",
+          "songs": [
+            {
+              "title": "Got My Own Thing Now",
+              "length": "2:31"
+            },
+            {
+              "title": "Put a Lid on It",
+              "length": "2:40"
+            },
+            {
+              "title": "Memphis Exorcism",
+              "length": "2:25"
+            },
+            {
+              "title": "Twilight",
+              "length": "3:35"
+            }
+          ]
+        },
+        {
+          "name": "The Inevitable",
+          "date": "1995",
+          "songs": [
+            {
+              "title": "Lover's Lane",
+              "length": "3:05"
+            },
+            {
+              "title": "Danny Diamond",
+              "length": "3:52"
+            },
+            {
+              "title": "I've Found a New Baby",
+              "length": "2:45"
+            },
+            {
+              "title": "Anything But Love",
+              "length": "2:41"
+            }
+          ]
+        },
+        {
+          "name": "Perennial Favorites",
+          "date": "1997",
+          "songs": [
+            {
+              "title": "Suits Are Picking Up the Bill",
+              "length": "3:03"
+            },
+            {
+              "title": "Low Down Man",
+              "length": "4:14"
+            },
+            {
+              "title": "Ghost of Stephen Foster",
+              "length": "3:32"
+            },
+            {
+              "title": "Pallin' With Al",
+              "length": "2:41"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Burns Unit",
+      "image": "the-burns-unit.jpg",
+      "genre": "Folk",
+      "url": "@/assets/artist-covers/artist-the-burns-unit.jpg",
+      "albums": [
+        {
+          "name": "Side Show",
+          "date": "2010",
+          "songs": [
+            {
+              "title": "Since We;ve Fallen Out",
+              "length": "5:25"
+            },
+            {
+              "title": "Trouble",
+              "length": "3:27"
+            },
+            {
+              "title": "Send Them Kids To War",
+              "length": "4:02"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
