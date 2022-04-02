@@ -2,8 +2,8 @@
 
 A simple mock music library and player coded in Vue3, HTML, CSS, and JS.
 
-##Screenshots
+## Screenshots
 
-(https://williambeukelman.github.io/music-player-albums.png)
+![Albums](https://williambeukelman.github.io/music-player-albums.png)
 
-(https://williambeukelman.github.io/music-player-songs-playing.png)
+![Songs](https://williambeukelman.github.io/music-player-songs-playing.png)
